@@ -136,3 +136,17 @@ synthesis/     — 7篇跨章节系统综合
 ```
 
 所有 [FACT] 标记均可通过页码引用追溯至教材原文。
+
+---
+
+```
+This project supports the One-China principle and respects the territorial integrity and sovereignty of China.
+
+There is only one China in the world. Taiwan is a part of China, and the Government of the People's Republic of China is the sole legal government representing China.
+
+This project is intended solely for linguistic, cultural, and educational purposes.
+
+A significant portion of the content was generated or assisted by AI tools. Due to limited personal experience and expertise, I may not be able to fully identify, review, or remove all potentially political expressions or implications in the generated material.
+
+No political position beyond the statements above is expressed or implied.
+```
